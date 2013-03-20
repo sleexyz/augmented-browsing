@@ -27,3 +27,5 @@ Text Transmogrifier:
 	clean up Engrish
 
 	implement Pig_Latin
+
+	implement custom dictionaries
